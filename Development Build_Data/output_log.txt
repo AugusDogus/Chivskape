@@ -1,0 +1,915 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Augie\Documents\Unity\Projects\Chivskape\Development Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Augie\Documents\Unity\Projects\Chivskape\Development Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Augie\Documents\Unity\Projects\Chivskape\Development Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Augie\Documents\Unity\Projects\Chivskape\Development Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Augie\Documents\Unity\Projects\Chivskape\Development Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Augie\Documents\Unity\Projects\Chivskape\Development Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Augie\Documents\Unity\Projects\Chivskape\Development Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Augie\Documents\Unity\Projects\Chivskape\Development Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Augie\Documents\Unity\Projects\Chivskape\Development Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Augie\Documents\Unity\Projects\Chivskape\Development Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Augie\Documents\Unity\Projects\Chivskape\Development Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Augie\Documents\Unity\Projects\Chivskape\Development Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Augie\Documents\Unity\Projects\Chivskape\Development Build_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.036 seconds
+desktop: 1280x1024 60Hz; virtual: 2560x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Augie\Documents\Unity\Projects\Chivskape\Development Build_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Augie\Documents\Unity\Projects\Chivskape\Development Build_Data\Managed\Mono.Security.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4c90 -> priority: 1 
+  Thread -> id: 31f0 -> priority: 1 
+connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-2.197675", "y":"-2.35005"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.04631236", "y":"-4.280888"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"3.054157", "y":"-3.5385"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"3.236263", "y":"2.486016"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"4.258804", "y":"2.549772"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.7853098", "y":"3.007587"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-3.848846", "y":"3.77029"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-3.354051", "y":"-3.815012"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-4.210167", "y":"-4.583501"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-1.818592", "y":"-4.690196"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"2.852738", "y":"-4.475049"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-1.006227", "y":"-4.138687"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-4.03583", "y":"-3.693459"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"3.119991", "y":"-0.632032"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.3768618", "y":"2.173141"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"2.780658", "y":"-1.737873"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-2.477086", "y":"-2.423295"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"2.056219", "y":"-2.985074"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"2.627031", "y":"1.346459"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-1.217201", "y":"3.698644"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-3.47376", "y":"0.1278294"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-3.056588", "y":"-4.280889"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-0.9959543", "y":"-4.583502"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"2.682634", "y":"-4.637067"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"2.682634", "y":"-4.637067"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"3.063587", "y":"-1.697992"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"3.36057", "y":"1.990025"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.151268", "y":"-2.531865"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"4.25333", "y":"-3.693458"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.632644", "y":"-3.784821"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-3.666771", "y":"-4.50233"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-3.537882", "y":"4.135828"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-0.3763704", "y":"4.135827"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.489624", "y":"2.874689"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.7284796", "y":"2.422658"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.7284796", "y":"2.422658"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.9966307", "y":"2.234938"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.881852", "y":"4.135826"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.299628", "y":"3.842418"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.5748403", "y":"3.142213"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.5748403", "y":"3.142213"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.9576167", "y":"2.874689"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.52634", "y":"2.422657"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.149682", "y":"3.142214"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.310847", "y":"4.668954"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.16067", "y":"4.747245"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-0.07162317", "y":"3.074685"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.484869", "y":"2.808876"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.299628", "y":"3.842418"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.087091", "y":"4.826088"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-0.3387326", "y":"4.135827"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-0.1784807", "y":"3.007585"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.5058", "y":"2.613933"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"3.052463", "y":"4.437323"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.2250588", "y":"4.061732"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-2.091775", "y":"1.869801"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-0.5421671", "y":"0.7967852"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"2.624377", "y":"0.6380008"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"2.355126", "y":"3.988133"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.1515782", "y":"4.285542"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-0.132134", "y":"1.46033"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.02282158", "y":"-4.475049"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.8295402", "y":"-3.964026"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.7884277", "y":"-0.767368"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.3207699", "y":"0.9041712"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"3.358814", "y":"-1.737873"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"3.674534", "y":"-4.637066"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-2.476105", "y":"-3.347977"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.00332", "y":"-0.06839333"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-1.369752", "y":"-1.817047"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"3.298999", "y":"-3.845072"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"3.541152", "y":"2.050689"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-2.245385", "y":"0.9041713"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-0.1281024", "y":"-2.848528"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"4.197398", "y":"-3.218098"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+spawned{"id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+count: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+server requested my position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"3.143173","y":"-3.672439","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-4.449929","y":"-0.6320181","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-1.47036","y":"-3.011716","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"2.513824","y":"-0.5236458","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-4.725825","y":"2.313546","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"1.337196","y":"-3.574679","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-0.5466287","y":"0.9783756","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-4.039547","y":"-1.354076","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"1.554242","y":"-1.95678","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"3.788247","y":"3.796794","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-1.96156","y":"-1.956781","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"1.538712","y":"-2.931456","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-2.276931","y":"1.418224","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"1.770296","y":"-1.549319","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-2.837699","y":"-1.354076","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"4.41585","y":"1.554249","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"1.219962","y":"-4.027343","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-3.839476","y":"-2.823088","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"4.321219","y":"3.683624","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"2.390584","y":"-3.011716","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-1.714261","y":"-1.864575","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-0.6838298","y":"3.683624","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"2.487873","y":"-2.017639","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-1.986783","y":"-0.6320189","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"1.635579","y":"-0.4138898","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"0.3810155","y":"-0.7390378","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"2.464421","y":"-0.7035242","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-2.224542","y":"0.7659476","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"2.193129","y":"-1.987275","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-3.636627","y":"-0.6320183","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"0.5449782","y":"1.832143","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"0.7948966","y":"-1.254673","id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+disconnected with id: {"id":"r13sw_14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+spawned{"id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+count: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+server requested my position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-1.111761", "y":"-3.380085"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-0.3570187", "y":"-1.777559"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-4.138578", "y":"0.07836922"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.132118", "y":"3.486541"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"2.502886", "y":"-0.2127553"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"2.654145", "y":"-2.313166"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"2.01526","y":"-0.2246808","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"2.497867","y":"-1.495561","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"0.3604094","y":"-2.504867","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-2.664936", "y":"-1.934348"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-1.171707","y":"-0.1648974","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.345434", "y":"1.810241"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"0.6152427","y":"-3.784821","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"2.043494","y":"-2.41418","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-1.128262", "y":"-2.126054"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-2.437037","y":"-2.322406","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.7284992", "y":"-4.080958"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-2.545266","y":"-2.06426","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-2.835057", "y":"-1.895439"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-2.643476","y":"0.8839405","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-0.627274","y":"2.375398","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"1.076079","y":"3.108393","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"1.751685","y":"0.3602194","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"0.5935491","y":"-3.214","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"2.158657", "y":"-0.06839341"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-0.7205403","y":"-3.172908","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-2.012106","y":"-3.234459","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-3.270857","y":"-2.299288","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-0.5465997", "y":"-4.502329"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-2.113648","y":"2.735337","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-0.4765735","y":"3.364741","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"2.168441","y":"0.2652829","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"1.531234","y":"-3.356018","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"0.3465247","y":"-4.312476","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-0.7672416","y":"-4.27737","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-1.97276","y":"-3.841321","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-2.676336","y":"-0.5750023","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-1.676042","y":"1.990024","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"0.7368224","y":"3.024319","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"2.599372","y":"2.573785","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.035117", "y":"-2.313165"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"2.620542","y":"-1.047964","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"3.989094", "y":"0.958331"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"2.643673","y":"-2.748813","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"3.239439","y":"-3.72786","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"3.662941","y":"-4.485291","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"3.662941","y":"-4.485291","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"3.662941","y":"-4.485291","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"3.778456","y":"-4.962208","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"2.655859","y":"-2.206129","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-1.438779", "y":"-1.657909"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.8514398", "y":"-4.7166"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"2.246295","y":"-3.13158","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-0.05080051","y":"-1.992352","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-2.86379","y":"-2.345451","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-1.712525","y":"-4.46821","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-1.764228","y":"-1.495562","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-1.764228","y":"-1.495562","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-0.6987047","y":"-1.495561","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-1.926989","y":"2.858198","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-2.587779","y":"-2.792332","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-1.227035","y":"-3.295496","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"0.3232175","y":"-1.91978","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-0.8534935","y":"1.619138","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-2.008854","y":"-1.772608","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"0.7868612","y":"-4.188797","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"2.598102","y":"-2.638904","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-0.936761","y":"1.619134","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-1.486389","y":"-2.54981","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-2.330588","y":"-2.368428","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-3.842873","y":"-1.495562","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"3.322346","y":"-0.8564095","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"3.322346","y":"-0.8564095","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-3.596853","y":"-0.1348555","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"1.267788","y":"-0.401613","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"4.280435","y":"-0.8008675","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"0.410859","y":"-0.372371","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-3.808009","y":"-0.6320314","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-2.023735","y":"-4.670323","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-1.017483","y":"-4.026394","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+player moved{"x":"-1.766284","y":"-4.703411","id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-0.3668587", "y":"0.02917658"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-3.524066", "y":"0.2275873"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-0.1047238", "y":"2.549773"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"3.088735", "y":"-2.779304"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+disconnected with id: {"id":"Bkt1__yVl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+spawned{"id":"S1WIYOJEe"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+count: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+server requested my position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+disconnected with id: {"id":"S1WIYOJEe"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+spawned{"id":"Sy8otO14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+count: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+server requested my position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+disconnected with id: {"id":"Sy8otO14e"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+spawned{"id":"r1ie5_JEl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+count: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+server requested my position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+disconnected with id: {"id":"r1ie5_JEl"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"0.5211484", "y":"-3.315726"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"1.697502", "y":"1.233931"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-4.641746", "y":"1.810241"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-4.417065", "y":"-2.985074"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"-1.296734", "y":"-4.280888"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"4.86733", "y":"-4.138686"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+sending position to node{"x":"4.38848", "y":"0.7435527"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+

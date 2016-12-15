@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chivskape", "Chivskape.csproj", "{6D451E6E-E9DA-1684-9D6D-B00EB9C4D0F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chivskape.Editor", "Chivskape.Editor.csproj", "{7AC5E5EE-4685-8BA0-9CD9-40185F38DE8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D451E6E-E9DA-1684-9D6D-B00EB9C4D0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D451E6E-E9DA-1684-9D6D-B00EB9C4D0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D451E6E-E9DA-1684-9D6D-B00EB9C4D0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D451E6E-E9DA-1684-9D6D-B00EB9C4D0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC5E5EE-4685-8BA0-9CD9-40185F38DE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC5E5EE-4685-8BA0-9CD9-40185F38DE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC5E5EE-4685-8BA0-9CD9-40185F38DE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC5E5EE-4685-8BA0-9CD9-40185F38DE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
